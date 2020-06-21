@@ -27,17 +27,17 @@ projects: []
 math : true
 ---
 
-Now we have 64 people. Again, some of these always tell the truth and the rest always lie. Our task here is to find out the liar/s. Every person writes down each of these sentences:
+Now we have $64$ people. Again, some of these always tell the truth and the rest always lie. Our task here is to find out the liar/s. Every person writes down each of these sentences:
 
-> At least one of these 64 people is a liar
+> At least one of these $64$ people is a liar
 
 <span/>
 
-> At least two of these 64 people are liars
+> At least two of these $64$ people are liars
 
 ...
 
-> At least sixty four of these 64 people are liars
+> At least sixty four of these $64$ people are liars
 
 
 Who is/are the liar/s? Why?
