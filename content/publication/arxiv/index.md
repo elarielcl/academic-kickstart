@@ -34,7 +34,7 @@ tags:
 featured: true
 
 links: []
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2007.07575'
 url_code: ''
 url_dataset: ''
 url_poster: ''
