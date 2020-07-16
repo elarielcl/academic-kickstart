@@ -29,9 +29,9 @@ summary: "We describe indexes for searching large data sets for variable-length-
 
 
 tags:
-- Conference Publication
-- SOFSEM
-featured: false
+- Preprint
+- arXiv
+featured: true
 
 links: []
 url_pdf: ''
