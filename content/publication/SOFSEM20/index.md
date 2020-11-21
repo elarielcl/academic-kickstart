@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links: []
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2002.12662.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -42,7 +42,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
