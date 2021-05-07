@@ -31,7 +31,7 @@ tags:
 - Conference Publication
 - SPIRE
 - Compressed Data Structures
-featured: true
+featured: false
 
 links: []
 url_pdf: 'https://arxiv.org/pdf/1902.03274.pdf'

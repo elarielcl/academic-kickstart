@@ -17,7 +17,7 @@ publishDate: "2020-01-17T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In International Conference on Current Trends in Theory and Practice of Informatics, SOFSEM 2020*
+publication: In International Conference on Current Trends in Theory and Practice of Informatics, *SOFSEM 2020*
 publication_short: In *SOFSEM 2020*
 
 abstract:  "We describe indexes for searching large data sets for variable-length-gapped (VLG) patterns. VLG patterns are composed of two or more subpatterns, between each adjacent pair of which is a gap-constraint specifying upper and lower bounds on the distance allowed between subpatterns. VLG patterns have numerous applications in computational biology (motif search), information retrieval (e.g., for language models, snippet generation, machine translation) and capture a useful subclass of the regular expressions commonly used in practice for searching source code. Our best approach provides search speeds several times faster than prior art across a broad range of patterns and texts."
