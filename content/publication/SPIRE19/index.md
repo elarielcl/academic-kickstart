@@ -35,11 +35,11 @@ featured: false
 
 links: []
 url_pdf: 'https://arxiv.org/pdf/1902.03274.pdf'
-url_code: ''
+url_code: 'https://github.com/elarielcl/MinimalistBT-CST'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'files/spire2019.pdf'
 url_source: ''
 url_video: ''
 

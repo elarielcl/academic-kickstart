@@ -34,11 +34,11 @@ featured: true
 
 links: []
 url_pdf: 'files/ic21.pdf'
-url_code: ''
+url_code: 'https://github.com/elarielcl/MinimalistBT-CST'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'files/clei2020.pdf'
 url_source: ''
 url_video: ''
 

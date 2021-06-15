@@ -39,9 +39,9 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'files/wg2021.pdf'
 url_source: ''
-url_video: ''
+url_video: 'files/wg2021.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

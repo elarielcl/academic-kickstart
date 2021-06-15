@@ -39,7 +39,7 @@ featured: true
 
 links: []
 url_pdf: 'files/jcss20.pdf'
-url_code: ''
+url_code: 'https://github.com/elarielcl/MinimalistBlockTrees'
 url_dataset: ''
 url_poster: ''
 url_project: ''
