@@ -33,7 +33,7 @@ tags:
 - WG
 featured: true
 
-links: ['https://doi.org/10.1007/978-3-030-86838-3_20']
+links: []
 url_pdf: 'https://arxiv.org/pdf/2007.07575.pdf'
 url_code: ''
 url_dataset: ''
@@ -42,6 +42,7 @@ url_project: ''
 url_slides: 'files/wg2021.pdf'
 url_source: ''
 url_video: 'files/wg2021.mp4'
+url_doi: 'https://doi.org/10.1007/978-3-030-86838-3_20'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
