@@ -33,7 +33,7 @@ tags:
 - WG
 featured: true
 
-links: []
+links: ['https://doi.org/10.1007/978-3-030-86838-3_20']
 url_pdf: 'https://arxiv.org/pdf/2007.07575.pdf'
 url_code: ''
 url_dataset: ''

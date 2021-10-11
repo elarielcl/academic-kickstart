@@ -6,7 +6,7 @@ authors:
 - Brendan Mumey
 - Romeo Rizzi
 - Alexandru I. Tomescu
-date: "2021-07-14T00:00:00Z"
+date: "2022-01-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,8 +19,8 @@ publishDate: "2021-07-14T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In arXiv
-publication_short: In arXiv
+publication: In ACM-SIAM Symposium on Discrete Algorithms (SODA 2022)
+publication_short: In SODA 2022
 
 abstract:  "A minimum path cover (MPC) of a directed acyclic graph (DAG) G = (V,E) is a minimum-size set of paths that together cover all the vertices of the DAG. Computing an MPC is a basic polynomial problem, dating back to Dilworth's and Fulkerson's results in the 1950s. Since the size k of an MPC (also known as the width) can be small in practical applications, research has also studied algorithms whose complexity is parameterized on k. We obtain two new MPC parameterized algorithms for DAGs running in time O(k^2|V|log(|V|) + |E|) and O(k^3|V| + |E|). We also obtain a parallel algorithm running in O(k^2|V| + |E|) parallel steps and using O(log(|V|)) processors (in the PRAM model). Our latter two algorithms are the first solving the problem in parameterized linear time. Finally, we present an algorithm running in time O(k^2|V|) for transforming any MPC to another MPC using less than 2|V| distinct edges, which we prove to be asymptotically tight. As such, we also obtain edge sparsification algorithms preserving the width of the DAG with the same running time as our MPC algorithms. At the core of all our algorithms we interleave the usage of three techniques: transitive sparsification, shrinking of a path cover, and the splicing of a set of paths along a given path."
 
@@ -30,7 +30,7 @@ summary: "We obtain two new MPC parameterized algorithms for DAGs running in tim
 
 tags:
 - Conference Publication
-- arXiv
+- SODA
 featured: true
 
 links: []
