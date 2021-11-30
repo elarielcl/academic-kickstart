@@ -7,7 +7,7 @@ authors:
 - Romeo Rizzi
 - Alexandru I. Tomescu
 date: "2021-08-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/978-3-030-86838-3_20"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-27T00:00:00Z"

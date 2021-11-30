@@ -69,11 +69,11 @@ email: ""
 
 I am a Doctoral Student from [University of Helsinki](https://www.helsinki.fi/en). I work under the supervision of [Alexandru I. Tomescu](https://www.cs.helsinki.fi/u/tomescu/) in the [Graph Algorithms](https://www.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms) team, part of the [Algorithmic Bioinformatics](https://www.helsinki.fi/en/researchgroups/algorithmic-bioinformatics) group at the [Department of Computer Science](https://www.helsinki.fi/en/computer-science).
 
-My Doctoral Thesis consists of finding improved solutions for the "Sequence to Graph Alignment'' problem, through non-classical techniques such as: 
+My Doctoral Thesis consists of finding improved solutions for Bioinformatics problems, through non-classical techniques such as: 
 - Parameterized Algorithms
 - Restrictive class of inputs
 - Generalizations of current problems/solutions
 
-It also aims to find "Safe and Complete" solutions of such problems, and to implement the most promising solutions.
+It also aims to find "Safe and Complete" solutions of such problems, and to implement and test the most promising solutions.
 
 Previously, I was a Master Student from the [Department of Computer Science](https://www.dcc.uchile.cl/) at [University of Chile](https://www.uchile.cl/english). I worked under the supervision of [Gonzalo Navarro](https://users.dcc.uchile.cl/~gnavarro/). My [thesis](files/master-thesis.pdf) is titled "Compressed Suffix Trees for Repetitive Collections based on Block Trees". 

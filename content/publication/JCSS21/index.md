@@ -11,7 +11,7 @@ authors:
 - Simon J. Puglisi
 - Yasuo Tabei
 date: "2020-11-21T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.jcss.2020.11.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-21T00:00:00Z"

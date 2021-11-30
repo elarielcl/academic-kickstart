@@ -4,7 +4,7 @@ authors:
 - admin
 - Gonzalo Navarro
 date: "2019-10-07T12:13:46Z"
-doi: ""
+doi: "https://doi.org/10.1007/978-3-030-32686-9_31"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-10-07T12:13:46Z"
