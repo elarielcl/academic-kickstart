@@ -69,7 +69,7 @@ email: ""
 
 I am a Doctoral Student from [University of Helsinki](https://www.helsinki.fi/en). I work under the supervision of [Alexandru I. Tomescu](https://www.cs.helsinki.fi/u/tomescu/) in the [Graph Algorithms](https://www.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms) team, part of the [Algorithmic Bioinformatics](https://www.helsinki.fi/en/researchgroups/algorithmic-bioinformatics) group at the [Department of Computer Science](https://www.helsinki.fi/en/computer-science).
 
-My Doctoral Thesis consists of finding improved solutions for Bioinformatics problems, through non-classical techniques such as: 
+My Doctoral Thesis consists of finding improved solutions for Bioinformatics problems, using Graph Algorithms, and through non-classical techniques such as: 
 - Parameterized Algorithms
 - Restrictive class of inputs
 - Generalizations of current problems/solutions
