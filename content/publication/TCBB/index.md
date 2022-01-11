@@ -9,7 +9,7 @@ authors:
 - Kristoffer Sahlin
 - Alexandru I. Tomescu
 date: "2022-01-01T00:00:00Z"
-doi: ""
+doi: "https://doi.ieeecomputersociety.org/10.1109/TCBB.2021.3131203"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-11-30T00:00:00Z"
@@ -48,7 +48,7 @@ tags:
 featured: true
 
 links: []
-url_pdf: ''
+url_pdf: 'https://www.computer.org/csdl/api/v1/periodical/trans/tb/5555/01/09628018/1yXvF5CjJyE/download-article/pdf'
 url_code: 'https://github.com/algbio/SafePathsRNAPC'
 url_dataset: ''
 url_poster: ''
@@ -56,6 +56,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+url_doi: 'https://doi.ieeecomputersociety.org/10.1109/TCBB.2021.3131203'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

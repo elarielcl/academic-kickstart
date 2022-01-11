@@ -7,7 +7,7 @@ authors:
 - Romeo Rizzi
 - Alexandru I. Tomescu
 date: "2022-01-09T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1137/1.9781611977073.18"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-07-14T00:00:00Z"
@@ -34,14 +34,15 @@ tags:
 featured: true
 
 links: []
-url_pdf: 'https://arxiv.org/abs/2107.05717'
+url_pdf: 'https://epubs.siam.org/doi/pdf/10.1137/1.9781611977073.18'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'files/soda2022.pdf'
 url_source: ''
 url_video: ''
+url_doi: 'https://doi.org/10.1137/1.9781611977073.18'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
