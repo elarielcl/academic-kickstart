@@ -22,10 +22,10 @@ publication_types: ["1"]
 publication: In International Workshop on Graph-Theoretic Concepts in Computer Science, *WG 2021*
 publication_short: In *WG 2021*
 
-abstract:  "The width k of a directed acyclic graph (DAG) G = (V, E) equals the largest number of pair-wise non-reachable vertices. Computing the width dates back to Dilworth's and Fulkerson's results in the 1950s, and is doable in quadratic time in the worst case. Since k can be small in practical applications, research has also studied algorithms whose complexity is parameterized on k. Despite these efforts, it is still open whether there exists a linear-time O(f(k)(|E| + |V|)) parameterized algorithm computing the width. We answer this question affirmatively by presenting an O(k2^k|E| + k^24^k|V|)-time algorithm, based on a new notion of frontier antichains. As we process the vertices in a topological order, all the frontier antichains can be maintained with the help of several combinatorial properties, paying only f(k) along the way. The fact that the width can be computed by a single f(k)-sweep of the DAG is a new surprising insight into this classical problem. Our algorithm also allows deciding whether the DAG has width at most w in time O(f(min(w,k))(|E|+|V|))."
+abstract:  "The width $k$ of a directed acyclic graph (DAG) $G = (V, E)$ equals the largest number of pair-wise non-reachable vertices. Computing the width dates back to Dilworth's and Fulkerson's results in the 1950s, and is doable in quadratic time in the worst case. Since $k$ can be small in practical applications, research has also studied algorithms whose complexity is parameterized on $k$. Despite these efforts, it is still open whether there exists a linear-time $O(f(k)(|E| + |V|))$ parameterized algorithm computing the width. We answer this question affirmatively by presenting an $O(k2^k|E| + k^24^k|V|)$-time algorithm, based on a new notion of frontier antichains. As we process the vertices in a topological order, all the frontier antichains can be maintained with the help of several combinatorial properties, paying only $f(k)$ along the way. The fact that the width can be computed by a single $f(k)$-sweep of the DAG is a new surprising insight into this classical problem. Our algorithm also allows deciding whether the DAG has width at most $w$ in time $O(f(min(w,k))(|E|+|V|))$."
 
 # Summary. An optional shortened abstract.
-summary: "We describe an parameterized algorithm to compute the width k of a DAG in time O(k2^k|E| + k^24^k|V|)."
+summary: "We describe an parameterized algorithm to compute the width $k$ of a DAG in time $O(k2^k|E| + k^24^k|V|)$."
 
 
 tags:
@@ -47,7 +47,7 @@ url_doi: 'https://doi.org/10.1007/978-3-030-86838-3_20'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Frontier Antichains'
   focal_point: ""
   preview_only: false
 

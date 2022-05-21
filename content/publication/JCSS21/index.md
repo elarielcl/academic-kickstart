@@ -26,10 +26,10 @@ publication_types: ["2"]
 publication: In the Journal of Computer and System Sciences
 publication_short: In JCSS
 
-abstract:  "Let string S[1..n] be parsed into z phrases by the Lempel-Ziv algorithm. The corresponding compression algorithm encodes S in O(z) space, but it does not support random access to S. We introduce a data structure, the block tree, that represents S in O(z log(n/z)) space and extracts any symbol of S in time O(log(n/z)), among other space-time tradeoffs. The structure also supports other queries that are useful for building compressed data structures on top of S. Further, block trees can be built in linear time and in a scalable manner. Our experiments show that block trees offer relevant space-time tradeoffs compared to other compressed string representations for highly repetitive strings."
+abstract:  "Let string $S[1..n]$ be parsed into $z$ phrases by the Lempel-Ziv algorithm. The corresponding compression algorithm encodes $S$ in $O(z)$ space, but it does not support random access to $S$. We introduce a data structure, the block tree, that represents $S$ in $O(z \\log(n/z))$ space and extracts any symbol of $S$ in time $O(\\log(n/z))$, among other space-time tradeoffs. The structure also supports other queries that are useful for building compressed data structures on top of $S$. Further, block trees can be built in linear time and in a scalable manner. Our experiments show that block trees offer relevant space-time tradeoffs compared to other compressed string representations for highly repetitive strings."
 
 # Summary. An optional shortened abstract.
-summary: "We introduce a data structure, the block tree, that represents S in O(z log(n/z)) space and extracts any symbol of S in time O(log(n/z)), among other space-time tradeoffs. The structure also supports other queries that are useful for building compressed data structures on top of S."
+summary: "We introduce a data structure, the block tree, that represents $S$ in $O(z \\log(n/z))$ space and extracts any symbol of $S$ in time $O(\\log(n/z))$, among other space-time tradeoffs. The structure also supports other queries that are useful for building compressed data structures on top of $S$."
 
 
 tags:
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Block Tree'
   focal_point: ""
   preview_only: false
 
