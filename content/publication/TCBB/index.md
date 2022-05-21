@@ -61,7 +61,7 @@ url_doi: 'https://doi.ieeecomputersociety.org/10.1109/TCBB.2021.3131203'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Trancripts, Unitigs and Contigs in Splicing Graph'
   focal_point: ""
   preview_only: false
 
