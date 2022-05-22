@@ -45,7 +45,7 @@ summary: "We show how to compute maximal safe path for constrained path covers, 
 tags:
 - Journal Publication
 - TCBB
-featured: true
+featured: false
 
 links: []
 url_pdf: 'https://www.computer.org/csdl/api/v1/periodical/trans/tb/5555/01/09628018/1yXvF5CjJyE/download-article/pdf'
@@ -61,7 +61,7 @@ url_doi: 'https://doi.ieeecomputersociety.org/10.1109/TCBB.2021.3131203'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Trancripts, Unitigs and Contigs in Splicing Graph'
+  caption: 'Transcripts, Unitigs and Contigs in Splicing Graph'
   focal_point: ""
   preview_only: false
 

@@ -30,7 +30,7 @@ summary: "New Repetition-Aware Compressed Suffix Tree. Slightly larger than stat
 tags:
 - Journal Publication
 - I&C
-featured: true
+featured: false
 
 links: []
 url_pdf: 'files/ic21.pdf'

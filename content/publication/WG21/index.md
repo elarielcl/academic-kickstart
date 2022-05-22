@@ -31,7 +31,7 @@ summary: "We describe an parameterized algorithm to compute the width $k$ of a D
 tags:
 - Conference Publication
 - WG
-featured: true
+featured: false
 
 links: []
 url_pdf: 'https://arxiv.org/pdf/2007.07575.pdf'

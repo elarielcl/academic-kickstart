@@ -47,7 +47,7 @@ url_doi: 'https://doi.org/10.1137/1.9781611977073.18'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Splicing along a decrementing path'
   focal_point: ""
   preview_only: false
 

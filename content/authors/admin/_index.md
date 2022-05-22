@@ -18,12 +18,16 @@ organizations:
   url: "https://www.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms/people-graph-algorithms"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include graph algorithms, algorithmic bioinformatics, and compressed data structures.
+bio: My research interests include algorithmic bioinformatics, graph algorithms, string algorithms, algorithmic bioinformatics, compressed data structures, safe & complete algorithms and parameterized algorithms.
 
 interests:
+- Algorithmic Bioinformatics
 - Graph Algorithms
-- Algorithmic Bioninformatics
+- String Algorithms
 - Compressed Data Structures
+- Safe & Complete Algorithms
+- Parameterized Algorithms
+
 
 education:
   courses:
@@ -69,7 +73,7 @@ email: ""
 
 I am a Doctoral Student from [University of Helsinki](https://www.helsinki.fi/en). I work under the supervision of [Alexandru I. Tomescu](https://www.cs.helsinki.fi/u/tomescu/) in the [Graph Algorithms](https://www.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms) team, part of the [Algorithmic Bioinformatics](https://www.helsinki.fi/en/researchgroups/algorithmic-bioinformatics) group at the [Department of Computer Science](https://www.helsinki.fi/en/computer-science).
 
-My Doctoral Thesis consists of finding improved solutions for Bioinformatics problems, using Graph Algorithms, and through non-classical techniques such as: 
+My Doctoral Thesis consists of finding improved solutions for Bioinformatics problems, using Graph Algorithms via non-classical techniques such as: 
 - Parameterized Algorithms
 - Restrictive class of inputs
 - Generalizations of current problems/solutions
