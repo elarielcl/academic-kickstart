@@ -37,7 +37,7 @@ tags:
 featured: false
 
 links: []
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2207.02136'
 url_code: ''
 url_dataset: ''
 url_poster: ''
