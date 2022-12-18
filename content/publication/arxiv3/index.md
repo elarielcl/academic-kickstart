@@ -1,7 +1,11 @@
 ---
 title: "A Safety Framework for Flow Decomposition Problems via Integer Linear Programming"
 authors:
+- Fernando H. C. Dias
 - admin
+- Lucia Williams
+- Brendan Mumey
+- Alexandru I. Tomescu
 date: "2023-01-15T00:00:00Z"
 doi: ""
 
