@@ -35,7 +35,7 @@ tags:
 featured: false
 
 links: []
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2301.13245.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
